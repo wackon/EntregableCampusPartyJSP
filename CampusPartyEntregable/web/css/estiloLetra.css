@@ -1,0 +1,13 @@
+body{
+    background-image: url(../gamer1.jpg);
+    background-position: center;	  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2{
+    font-size: 180%;
+    color: whitesmoke;
+    text-shadow: #555 3px 3px 4px;
+}

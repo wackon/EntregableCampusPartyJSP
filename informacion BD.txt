@@ -1,0 +1,10 @@
+
+Se adjuntan el query de la BD
+Se adjunta query de los procedimientos almacenados implementados
+
+
+Datos de la bd
+
+nombre bd=sa
+clave=123456
+
